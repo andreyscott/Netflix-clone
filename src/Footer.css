@@ -1,0 +1,49 @@
+.social__container {
+  padding-top: 48px;
+  margin-bottom: 48px;
+  background-color: black;
+  font-size: 14px;
+  text-align: center;
+  position: relative;
+}
+h3 {
+  font-size: 30px;
+  font-family: monospace;
+  color: white;
+}
+
+a {
+  color: rgb(173, 128, 128);
+}
+.icons {
+  font-size: 30px;
+  margin: 18px 0px 30px;
+  padding: 0px;
+}
+
+ul {
+  list-style: none;
+  display: inline-block;
+  line-height: 33px;
+  margin: 0px;
+  padding: 0px;
+  color: rgb(82, 82, 82);
+  transition: green 0.3s ease-in-out 0s;
+}
+
+a.social {
+  margin: 0 1rem;
+  transition: transform 250ms;
+  display: inline-block;
+}
+
+a.social:hover {
+  transform: translateY(-4px);
+}
+
+.icons {
+  font-size: 30px;
+  margin: 18px 0px 30px;
+  padding: 0px;
+  color: rgb(175, 13, 13);
+}

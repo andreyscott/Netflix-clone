@@ -3,6 +3,7 @@ import Row from './Row.js';
 import Nav from './Nav.js';
 import Banner from './Banner.js';
 import requests from './requests.js';
+import Footer from './Footer.js';
 import './App.css';
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
       <Row title="Comedy Movies" fetchUrl={requests.fetchComedyMovies} />
       <Row title="Romance Movies" fetchUrl={requests.fetchRomanceMovies} />
       <Row title="Documentaries" fetchUrl={requests.fetchDocumentaries} />
+      <Footer />
 
     </div>
   );
