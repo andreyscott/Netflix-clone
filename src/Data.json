@@ -1,0 +1,157 @@
+{
+    "main": {
+      "name":"Andrew Irorere",
+      "occupation":"Junior web Developer || Front-end Web Developer",
+      "description":"Freelancer by day, code instructor by night on my Youtube channel",
+      "image":"profilepic.jpg",
+      "bio":"My name is Andrew im a junior self-taught  javascript web-Developer currently working freelancing @upwork.",
+      "contactmessage":"You can contact me at any of the following medium.",
+      "email": "andreyscott301@gmail.com",
+      "phone": "+2348164078594",
+      "address":{
+        "street":"18 iyahen street, off Dumez Road",
+        "city":"Benin-city",
+        "state":"Nigeria",
+        "zip": "300251"
+      },
+      "website": "http://www.timbakerdev.com",
+      "resumedownload":"http://timbakerdev.com",
+      "social":[
+        {
+          "name":"facebook",
+          "url":"https://web.facebook.com/andrey.king.188",
+          "className":"fa fa-facebook"
+        },
+        {
+          "name":"twitter",
+          "url":"http://twitter.com",
+          "className":"fa fa-twitter"
+        },
+        {
+          "name":"google-plus",
+          "url":"http://googleplus.com/tbakerx",
+          "className":"fa fa-google-plus"
+        },
+        {
+          "name":"linkedin",
+          "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+          "className":"fa fa-linkedin"
+        },
+        {
+          "name":"instagram",
+          "url":"http://instagram.com/andrayscott",
+          "className":"fa fa-instagram"
+        },
+        {
+          "name":"github",
+          "url":"http://github.com/andreyscott",
+          "className":"fa fa-github"
+        },
+        {
+          "name":"skype",
+          "url":"http://skype.com",
+          "className":"fa fa-skype"
+        }
+      ]
+    },
+    "resume":{
+      "skillmessage":"Please check out my resume.",
+      "education":[
+        {
+          "school":"University of Benin",
+          "degree":"Bachelor in Engineering",
+          "graduated":"Presently"
+  
+        }
+      ],
+      "work":[
+        {
+          "company":"Ej-touch Beauty Saloon",
+          "title":"Website Creator",
+          "years":"March 2019",
+          "description":"created a Fully responsive Web-site using Javascript, Jquery,  Google maps Api, etc."
+        }
+      ],
+      "skills":[
+        {
+          "name":"Git",
+          "level":"70%"
+        },
+        {
+          "name":"JavaScript",
+          "level":"75%"
+        },
+        {
+          "name":"ReactJs",
+          "level":"65%"
+        },
+        {
+          "name":"CSS",
+          "level":"80%"
+        },
+        {
+          "name":"HTML5",
+          "level":"90%"
+        },
+        {
+          "name":"Firebase",
+          "level":"60%"
+        },
+        {
+          "name":"Postgres",
+          "level":"50%"
+        },
+        {
+          "name":"JQuery",
+          "level":"55%"
+        }
+      ]
+    },
+    "portfolio":{
+      "projects": [
+        {
+          "title":"Canadian Wanderlust",
+          "category":"My Travel Blog for my post-university travels",
+          "image":"canadian-wanderlust.jpg",
+          "url":"https://www.canadianwanderlust.com"
+        },
+        {
+          "title":"Fury Fighting Gear",
+          "category":"(offline now) A fighting gear company I started",
+          "image":"fury-fighting-gear.jpg",
+          "url":"http://www.timbakerdev.com"
+        },
+        {
+          "title":"Original Thai Food",
+          "category":"Website I built for a restaurant I like in Thailand",
+          "image":"original-thai-food.jpg",
+          "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        },
+        {
+          "title":"Resume Website",
+          "category":"A React based resume website template",
+          "image":"resume-website.jpg",
+          "url":"http://www.timbakerdev.com"
+        },
+        {
+          "title":"Smirkspace",
+          "category":"(MVP Only) A React and Meteor based chat University project.",
+          "image":"smirkspace.jpg",
+          "url":"http://www.smirkspace.com"
+        }
+      ]
+    },
+    "testimonials":{
+      "testimonials":[
+        {
+          "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+          "user":"Kareem Abdul Jabbar"
+        },
+        {
+          "text":"That Andrew Irorere must be one of the most brilliant and hardworking developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+          "user":"DennisIroxy R-developer"
+        }
+      ]
+    }
+  }
+  
